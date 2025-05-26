@@ -35,21 +35,21 @@ const menuItems = [
     name: "Rice Crackers",
     price: "₱10.00",
     image: "https://www.maangchi.com/wp-content/uploads/2010/10/nurungji_disk.jpg",
-    description: "Vacuum-sealed, microwaveable, and loaded with garlic. Made for busy Filipino gamers and students.",
+    description: "Crispy, bite-sized, and packed with flavor. Made for Filipino gamers and students on the grind.",
     tags: ["Crunchy", "Literally Fried Rice", "Snack"]
   },
   {
     name: "Buro",
     price: "₱15.00",
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF3rDnCb0T-yB3lt2siG6cH_GIcjQCzyaeLKmqjGh53W3d5G4QHS7wizQLloU0J-X3x9VwdY7W18iZMUgC6gr480wxpqZcMSzjgE8KXVZpM8a3LMK4ct34bFtlAhnjfvg2vhlmlTPW3O4/s1600/DSC_0011.JPG",
-    description: "Vacuum-sealed, microwaveable, and loaded with garlic. Made for busy Filipino gamers and students.",
+    description: "Fermented, punchy, and unapologetically bold. Made for Filipino students with strong taste.",
     tags: ["Icky", "Pungent", "Savory"]
   },
   {
     name: "Japanese Premium butil ng Kanin",
     price: "₱200.00",
     image: "https://www.treetopzencenter.org/wp-content/uploads/2024/05/gi-rice-chopsticks.jpg",
-    description: "Vacuum-sealed, microwaveable, and loaded with garlic. Made for busy Filipino gamers and students.",
+    description: "Fluffy, fragrant, and ready to eat. Made for Filipino gamers and students.",
     tags: ["Ultra Rare", "Fuji Grown", "A5 of Rice"]
   }
 ];
